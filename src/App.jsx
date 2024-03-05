@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Card from "./components/Card";
-import data from "./assets/data";
+import data from "./data/data";
 import "./main.css";
 
 function App() {

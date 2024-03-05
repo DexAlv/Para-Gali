@@ -1,5 +1,5 @@
 import { useState } from "react";
-import responses from "../assets/nresponses";
+import responses from "../data/nresponses";
 
 function Card({ title, text, band }) {
   const [count, setCount] = useState(0);
